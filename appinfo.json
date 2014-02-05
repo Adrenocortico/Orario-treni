@@ -1,0 +1,26 @@
+{
+    "versionLabel": "1.0",
+    "uuid": "11ea5ddf-5a48-4719-aec8-af42e16dc9a0",
+    "appKeys": {},
+    "longName": "Orario treni (Italia)",
+    "versionCode": 1,
+    "capabilities": [
+        "location",
+        "configurable"
+    ],
+    "shortName": "Orario treni",
+    "companyName": "Adrenocortico",
+    "watchapp": {
+        "watchface": false
+    },
+    "resources": {
+        "media": [
+            {
+                "menuIcon": true,
+                "type": "png",
+                "name": "TRENORD",
+                "file": "images/trenord_3001.png"
+            }
+        ]
+    }
+}
